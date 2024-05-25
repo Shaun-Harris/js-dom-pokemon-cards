@@ -38,6 +38,7 @@ h2 {
 
 .card {
   width: 100%;
+
   justify-self: center;
 
   border: 1px solid #252525;
@@ -45,6 +46,8 @@ h2 {
 
   cursor: pointer;
   transition: all 300ms;
+
+  list-style: none;
 }
 
 .card:hover {
